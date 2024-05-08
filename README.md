@@ -5,8 +5,11 @@ Dieser Code wurde speziell für die H-Guard-Komponente des Projekts HomeWatch en
 
 Das H-Guard-Modul wird an der Eingangstür von Wohnungen oder Häusern montiert und bietet folgende Funktionen:
 
+ANMERKUNG: ESP32 arbeitet im Multithreading-Modus!
+
 Bewegungserkennung: Der Sensor erkennt Bewegungen im Eingangsbereich.
 Fotoaufnahme: Bei erkannten Bewegungen wird automatisch ein Foto geschossen.
+Live-Bilder: Es werden Livebilder angezeigt. 
 Alarmierung: Bei ausgewählten Ereignissen wird ein Alarm ausgelöst.
 Die aufgenommenen Fotos werden in der Firebase-Datenbank gespeichert.
 
