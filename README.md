@@ -1,4 +1,4 @@
-# HomeWatch - H-Guard-Komponente
+# H-Guard 
 
 ## Beschreibung
 Dieser Code wurde speziell für die H-Guard-Komponente des Projekts HomeWatch entwickelt. 
