@@ -11,6 +11,7 @@ Dieser Code wurde speziell für die H-Guard-Komponente des Projekts HomeWatch en
 
 
 
+![H-Guard](https://github.com/DevWuchte/H-Guard/blob/main/H-Guard%20Proto.jpg)
 
 
 
