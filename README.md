@@ -3,6 +3,13 @@
 ## Beschreibung
 Dieser Code wurde speziell für die H-Guard-Komponente des Projekts HomeWatch entwickelt. 
 
+Das H-Guard-Modul wird an der Eingangstür von Wohnungen oder Häusern montiert und bietet folgende Funktionen:
+
+Bewegungserkennung: Der Sensor erkennt Bewegungen im Eingangsbereich.
+Fotoaufnahme: Bei erkannten Bewegungen wird automatisch ein Foto geschossen.
+Alarmierung: Bei ausgewählten Ereignissen wird ein Alarm ausgelöst.
+Die aufgenommenen Fotos werden in der Firebase-Datenbank gespeichert.
+
 ## Anforderungen
 - Freenove ESP32 Wrover
 - OV2640 Kamera
