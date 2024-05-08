@@ -13,7 +13,7 @@ Die aufgenommenen Fotos werden in der Firebase-Datenbank gespeichert.
 ## Anforderungen
 - Freenove ESP32 Wrover
 - OV2640 Kamera
-- Sharp IR-Sensor
+- Sharp IR-Sensor GP2Y0A02YK0F
 - SSD1306 OLED-Display
 
 
